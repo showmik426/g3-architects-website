@@ -249,6 +249,9 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+    .footer-text{
+        padding: 15px 50px;
+    }
 }
 
 /* medium size device */
@@ -270,5 +273,8 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
         
+    }
+    .footer-text{
+        padding: 30px 100px;
     }
 }
